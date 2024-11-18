@@ -30,3 +30,26 @@ false
 var weather_city = 'philly' // universal variable keyword
 let weather_temp = 76 // temporary expected to change
 const forcast_weekly = 'sunny' // constant/ doesnt change
+
+// var is a keyword 
+
+var example = 'this is a string' // anything wrapped in quotes
+var example2 = 'true' // boolean - true or false
+var example3 =  12345 // integers - numbers
+
+// var is short of variable
+// it is the universal keyword for a variable
+// when you create a variable you always need to start with 'var'
+// or use 'let' or 'const' but these have special contextual usage
+
+var useraccount = 'tommyer'
+var useraddress = 'somewhere'
+var userphonenumberprimary = 2198488987
+var userphonenumbersecondary= 1746463636
+var phonenumber= 13322256
+
+let=' ' // special usage data is expected to change
+
+ //special usage data is expected to change
+
+ tiktokaccountname='freeyoru100'
