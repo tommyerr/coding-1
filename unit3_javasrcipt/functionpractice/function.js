@@ -25,4 +25,17 @@ function examplefunction(){
 // only telling the computer instructions not to actually run it
 
 // we access or call a function by writing its name
-examplefunction()
+// examplefunction()
+
+let accountbalance = 1000
+
+function depositmoney(){
+let newbalance = accountbalance + 200
+document.getElementById("data").innerHTML = newbalance
+
+}
+function login(email, password) 
+
+// data that we want to manipulate goes inside of the round brackets 
+// the instructions on what we want to do with data
+// goes inside of the curly brackets
