@@ -35,6 +35,36 @@ collegeTitileByYear(5);
 grocerylist = ['water','apples','bread']
 var randomdata = [grocerylist]
 
+// Array methods
+//a method is a function that works on a list (or object)
+//methods are written after the list variable name and
+//declared with a period
+//pretty much the method is going inside of the list
+//and running instructions on data from the list
+console.log()
+console.error()
+
+
+//push method() - this method (special function)
+//adds a new piece of data to a list it will add
+//new data to the back of the list
+genrallist.push('new data')
+console.log(genrallist)
+
+//pop method() this method removes a piece of data
+//from a list it will remove the last item in that list
+genrallist.pop()
+console.log(genrallist)
+
+//length() method  this method counts the number
+//of data inside the list
+console.log(genrallist.length)
+
+
+
+
+
+
 console.log(randomdata)
 
 coding1s=['black cw','green','white cw']
